@@ -1,0 +1,30 @@
+﻿# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Environments (never commit)
+.venv/
+venv/
+env/
+.conda/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Outputs / data
+data/
+outputs/
+results/
+*.log
